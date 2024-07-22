@@ -15,5 +15,8 @@ Trabalho da Faculdade.
     - [x] Utilizar o SSMS para alimentar as tabelas com dados básicos do sistema
     - [x] Criar algumas movimentações na base de dados, obtendo um conjunto.
 
-  - [ ] Relatório do 1º procedimento
-  - [ ] Relatório do 2º procedimento
+  - [x] Relatório do 1º procedimento
+  - [x] Relatório do 2º procedimento
+
+  - [x] Entrega do código
+  - [ ] Entrega do arquivo PDF
