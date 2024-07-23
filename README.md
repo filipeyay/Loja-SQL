@@ -19,4 +19,4 @@ Trabalho da Faculdade.
   - [x] Relatório do 2º procedimento
 
   - [x] Entrega do código
-  - [ ] Entrega do arquivo PDF
+  - [x] Entrega do arquivo PDF
